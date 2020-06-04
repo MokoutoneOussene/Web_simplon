@@ -1,0 +1,281 @@
+header{
+    background-color: black;
+    box-shadow: 1px 2px 10px 0px #becad1;
+}
+
+.btn-dark{
+    background-color: black;
+    border: 0;
+    font-size: 20px;
+    font-family:"Comic Sans MS";
+}
+
+.mm{
+    background-color: white;
+}
+
+.info{
+    background-color: rgb(189, 7, 7);
+}
+
+.flash{
+    font-family:"Comic Sans MS";
+    font-size: 20px;
+    width: 10%;
+    border-right: 2px solid white;
+}
+
+.info-defil{
+    font-family:"cambria";
+    font-size: 20px;
+}
+
+#mt-contenaire{
+    background-color: rgb(235, 242, 243);
+    font-family:"Comic Sans MS";
+    height: auto;
+}
+
+#mt-form{
+    width: 70%;
+}
+
+.row .btn-dark{
+    font-size: 13px;
+}
+
+.mt-titre{
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.mt-actu{
+    box-shadow: 1px 2px 10px 0px #becad1;
+    background-color: white;
+    text-align: start;
+}
+
+.footer{
+    background-color: #000102;
+    color: white;
+    height: auto;
+  }
+
+section{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.cont-block{
+  display: flex;
+  flex-direction: column;
+}
+.global{
+  display: flex;
+  flex-direction: column;
+}
+.global>div{
+  display: flex;
+  flex-direction: row;
+}
+ .contenu-contener{
+  margin: 0px; 
+  padding: 5px;
+  width: 83%;
+ }
+ .contenu-contener2{
+  display: flex;
+  flex-basis: 1;
+  margin: 6em;
+ }
+
+.niv-bas{
+  display: flex;
+  flex-direction: row;
+  width: 83%;
+  height: auto;
+  margin-top: 5em;
+  margin-bottom: 5em;
+ }
+
+.niv1-foot{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  border-bottom: 2px solid #e8eaed;
+ }
+
+.niv2-foot{
+  display: flex;
+  background-color: black;
+  border-top: 1px solid rgb(247, 243, 243);
+ }
+
+.niv3-foot{
+    display: flex;
+    background-color: black;
+    border-top: 1px solid rgb(247, 243, 243);
+   }
+
+.imagear{
+    margin-right: 400px;
+   }
+
+.icona{
+     display: inline-flex;
+ }
+
+.copyright{
+     display: inline-flex;
+     justify-content: space-between;  
+ }
+
+.imcopy{
+    margin-right: 160px;
+ }
+
+ .niv3-foot{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+ }
+ 
+.gauche{
+      width: 20%;
+  }
+
+.droite{
+      width: 80%;
+      display: flex;
+      flex-direction: row;
+  }
+
+.logo-footer{
+      width: 100%;   
+  }
+
+.qui-sommes-nous{
+      width: 45%;
+      padding: 10px;
+  }
+
+.nous-contacter{
+      width: 45%;
+      padding: 10px;
+  }
+
+.noussuivre{
+    margin-top: 30px;
+}
+
+footer h3{
+      color: white;
+  }
+
+.fa{
+    height: 41px;
+    width: 40px;
+    padding: 13px;
+    margin: 20px;
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: black;
+    margin-bottom: inherit;
+    color:  rgb(189, 7, 7);
+    font-size: 50px;
+    background-color: white;
+}
+
+.fa:hover{
+    background: rgba(133, 201, 221, 0.945);
+    -webkit-transition: all 400ms cubic-bezier(0.175, 0.885, 0.32, 1);
+    transition: all 400ms cubic-bezier(0.175, 0.885, 0.32, 1);
+}
+
+.zr_image-carde{
+    height: 500px;
+}
+
+.card-title {
+    margin-bottom: .75rem;
+    color: red;
+}
+
+#mt-contenaire > h3,h4{
+    text-align: center;
+}
+
+.pic-top{
+
+    height: 300px;
+}
+
+.card-text{
+    font-size: 18px;
+}
+
+.card-title{
+    font-size: 20px;  
+}
+
+.titre-second{
+    font-size: 20px;
+}
+
+.les-liens{
+    padding-right: .1px;
+    padding-left: .1px;  
+} 
+
+.la-cage-des-liens{
+    margin-right: .2rem!important; 
+}
+
+.portrait{
+    font-size: 20px;
+    font-family:"Comic Sans MS";
+    margin-right: 20px;
+    color: rgb(117, 114, 114);
+}
+
+.c-portrait{
+    font-size: 20px;
+    font-family:"Comic Sans MS";
+}
+
+.arme{
+    margin-bottom: 20px;
+    justify-content: center;
+    display: flex;
+
+}
+.content{
+
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.mellar{
+    color: red;
+}
+
+.card-evenement{
+    width: auto;
+    height: 300px;
+} 
+
+.contenu-des-cartes{
+    text-align: center;
+}
+
+/* .card-evenement{
+    width: 50%;
+    height: 400px;
+    justify-content: center;
+    margin: auto;
+} */
